@@ -1,0 +1,24 @@
+{
+  "name": "rlu",
+  "version": "1.0.0",
+  "description": "just a response layout util ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madlordory/response-layout-util.git"
+  },
+  "keywords": [
+    "response",
+    "layout",
+    "flex"
+  ],
+  "author": "madlordory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madlordory/response-layout-util/issues"
+  },
+  "homepage": "https://github.com/madlordory/response-layout-util#readme"
+}
