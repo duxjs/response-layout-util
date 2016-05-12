@@ -1,9 +1,7 @@
 # Cortex
 neurons
 .cortex
-html/*.html
-html/*.appcache
-css/*.css
+
 
 # Numerous always-ignore extensions
 *.bak

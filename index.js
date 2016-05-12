@@ -3,12 +3,12 @@
  */
 (function () {
     function upadte() {
-        let w=Math.min(window.screen.width,document.body.clientWidth,document.documentElement.getBoundingClientRect().width);
+        var w=Math.min(window.screen.width,document.body.clientWidth,document.documentElement.getBoundingClientRect().width);
         document.getElementsByTagName('html')[0].style['font-size']=w/375*0.625*16+'px'
     }
     module.exports={
         init:function () {
-            window.addEventListener('resize',ResponseUtil.upadte)
+            window.addEventListener('resize',upadte)
             upadte();
         },
 
