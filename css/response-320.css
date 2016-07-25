@@ -1,5 +1,5 @@
 html {
-    font-size: 62.5%;
+    font-size: 10px;
 }
 
 
@@ -7,7 +7,7 @@ html {
 @media (device-height:480px) and (min-resolution: 2dppx){
 
     html {
-        font-size: 62.5%;
+        font-size: 10px;
     }
 
 }
@@ -16,14 +16,14 @@ html {
 @media (device-height:640px) and (min-resolution: 3dppx){
 
     html {
-        font-size: 70.31%;
+        font-size: 11.2496px;
     }
 
 }
 
 @media (device-height:568px) and (min-resolution: 2dppx){
     html {
-        font-size: 62.5%;
+        font-size: 10px;
     }
 }
 
@@ -31,7 +31,7 @@ html {
 @media (device-height:667px) and (min-resolution: 2dppx){
 
     html {
-        font-size: 73.24%;
+        font-size: 11.7184px;
     }
 
 }
@@ -39,7 +39,7 @@ html {
 @media (device-height:736px) and (min-resolution: 3dppx) {
 
     html {
-        font-size: 80.86%;
+        font-size: 12.9376px;
     }
 }
 
@@ -48,7 +48,7 @@ html {
 @media (device-height:480px) and (min--moz-device-pixel-ratio: 2){
 
     html {
-        font-size: 62.5%;
+        font-size: 10px;
     }
 
 }
@@ -56,7 +56,7 @@ html {
 @media (device-height:640px) and (min--moz-device-pixel-ratio: 3){
 
     html {
-        font-size: 70.31%;
+        font-size: 11.2496px;
     }
 
 }
@@ -65,7 +65,7 @@ html {
 @media (device-height:568px) and (min--moz-device-pixel-ratio: 2){
 
     html {
-        font-size: 62.5%;
+        font-size: 10px;
     }
 
 }
@@ -74,7 +74,7 @@ html {
 @media (device-height:667px) and (min--moz-device-pixel-ratio: 2){
 
     html {
-        font-size: 73.24%;
+        font-size: 11.7184px;
     }
 
 }
@@ -82,7 +82,7 @@ html {
 @media (device-height:736px) and (min--moz-device-pixel-ratio: 3) {
     /* 兼容iphone6 Plus  w:414*/
     html {
-        font-size: 80.86%;
+        font-size: 12.9376px;
     }
 }
 
@@ -91,7 +91,7 @@ html {
 @media (device-height:480px) and (-webkit-min-device-pixel-ratio: 2){
 
     html {
-        font-size: 62.5%;
+        font-size: 10px;
     }
 
 }
@@ -100,7 +100,7 @@ html {
 @media (device-height:640px) and (-webkit-min-device-pixel-ratio: 3){
 
     html {
-        font-size: 70.31%;
+        font-size: 11.2496px;
     }
 
 }
@@ -108,7 +108,7 @@ html {
 @media (device-height:568px) and (-webkit-min-device-pixel-ratio: 2){
 
     html {
-        font-size: 62.5%;
+        font-size: 10px;
     }
 
 }
@@ -117,21 +117,21 @@ html {
 @media (device-height:667px) and (-webkit-min-device-pixel-ratio: 2){
 
     html {
-        font-size: 73.24%;
+        font-size: 11.7184px;
     }
 
 }
 
 @media (device-height:736px) and (-webkit-min-device-pixel-ratio: 3) {
     html {
-        font-size: 80.86%;
+        font-size: 12.9376px;
     }
 }
 
 @media (device-width:320px){
 
     html {
-        font-size: 62.5%;
+        font-size: 10px;
     }
 
 }
@@ -139,7 +139,7 @@ html {
 @media (device-width:360px){
 
     html {
-        font-size: 70.3125%;
+        font-size: 11.25px;
     }
 
 }
@@ -147,7 +147,7 @@ html {
 @media (device-width:375px){
 
     html {
-        font-size: 73.2421875%;
+        font-size: 73.2421812px;
     }
 
 }
@@ -155,7 +155,7 @@ html {
 @media (device-width:384px){
 
     html {
-        font-size: 75%;
+        font-size: 12px;
     }
 
 }
@@ -163,7 +163,7 @@ html {
 @media (device-width:411px){
 
     html {
-        font-size: 80.27%;
+        font-size: 12.8432px;
     }
 
 }
@@ -171,7 +171,7 @@ html {
 @media (device-width:414px){
 
     html {
-        font-size: 80.86%;
+        font-size: 12.9376px;
     }
 
 }
@@ -179,7 +179,7 @@ html {
 @media (device-width:435px){
 
     html {
-        font-size: 84.96%;
+        font-size: 13.5936px;
     }
 
 }
@@ -187,7 +187,7 @@ html {
 @media (device-width:480px){
 
     html {
-        font-size: 93.75%;
+        font-size: 15px;
     }
 
 }
