@@ -1,6 +1,9 @@
 html {
   font-size: 53.33%;
 }
+
+
+
 @media (device-height:480px) and (min-resolution: 2dppx){
 
   html {
@@ -125,4 +128,68 @@ html {
   html {
     font-size: 69%;
   }
+}
+
+@media (device-width:320px){
+
+    html {
+        font-size: 53.33%;
+    }
+
+}
+
+@media (device-width:360px){
+
+    html {
+        font-size: 60%;
+    }
+
+}
+
+@media (device-width:375px){
+
+    html {
+        font-size: 62.5%;
+    }
+
+}
+
+@media (device-width:384px){
+
+    html {
+        font-size: 64%;
+    }
+
+}
+
+@media (device-width:411px){
+
+    html {
+        font-size: 68.5%;
+    }
+
+}
+
+@media (device-width:414px){
+
+    html {
+        font-size: 69%;
+    }
+
+}
+
+@media (device-width:435px){
+
+    html {
+        font-size: 53.33%;
+    }
+
+}
+
+@media (device-width:480px){
+
+    html {
+        font-size: 80%;
+    }
+
 }
