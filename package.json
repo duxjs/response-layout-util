@@ -1,6 +1,6 @@
 {
   "name": "rlu",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "just a response layout util ",
   "main": "index.js",
   "scripts": {
